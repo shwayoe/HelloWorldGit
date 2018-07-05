@@ -1,1 +1,6 @@
 D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe.config
+D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.exe
+D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\bin\Debug\HelloWorldGit.pdb
+D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.csprojResolveAssemblyReference.cache
+D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.exe
+D:\VideTraining\gitCode\HelloWorldGit\HelloWorldGit\obj\Debug\HelloWorldGit.pdb
